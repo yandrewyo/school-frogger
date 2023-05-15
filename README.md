@@ -6,4 +6,4 @@ A clone of frogger. Uses java canvas and classes to draw the player, roads, and 
 The game only works in full screen. The whole game may not fit depending on screen dimensions.
 
 To Play:
-Download the 067 FROGGER folder. Running C.command is unnecessary. Press R.command to both compile and run the game.
+Download the 067 FROGGER folder. Running C.command is unnecessary. Pressing R.command will both compile and run the game.
